@@ -1,4 +1,6 @@
 # Day 1 For Advent of Code - calmelb
+# Part 1 Answer = 1553
+# Part 2 Answer =
 
 #Variable Definitions
 previousNo = 0
